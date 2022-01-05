@@ -1,0 +1,7 @@
+Hello, insert 9 numbers of type integers to check if your numbers create a magic matrix.
+
+3	2	3	
+2	3	3	
+3	3	2	
+The matrix is not a basic magic matrix.
+Diagnal value is 9 while magic value is 8!

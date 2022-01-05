@@ -1,0 +1,7 @@
+Hello, insert 9 numbers of type integers to check if your numbers create a magic matrix.
+
+1	2	3	
+4	5	6	
+7	8	9	
+The matrix is not a basic magic matrix.
+Row or colum value is 15 while magic value is 6!
